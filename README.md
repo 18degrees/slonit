@@ -1,6 +1,6 @@
 # slonit
 
-Вполнение заданий от [slonit](https://slonit.ru/)
+Выполнение заданий от [slonit](https://slonit.ru/)
 
 ## Команды git
 
